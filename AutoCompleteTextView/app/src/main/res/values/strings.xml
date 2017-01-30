@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Auto Complete TextView</string>
+
+    <array name="countries">
+        <item>Bangladesh</item>
+        <item>America</item>
+        <item>Australia</item>
+        <item>Bhutan</item>
+        <item>Pakistan</item>
+        <item>Panama</item>
+        <item>Parkway</item>
+        <item>Italy</item>
+        <item>India</item>
+        <item>England</item>
+        <item>West Indies</item>
+        <item>Canada</item>
+    </array>
+</resources>
